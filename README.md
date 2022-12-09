@@ -1,1 +1,3 @@
-Program deszyfrujący (szyfr cezara), w zależności od parametru k, podanego przy danych
+#Szyfr cezara#
+
+Program odczytuje słowa oraz kod [paramter k], podane w pliku tekstowym, i zapisuje ich zdeszyfrowaną wersję.
